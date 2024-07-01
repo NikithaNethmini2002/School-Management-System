@@ -11,7 +11,7 @@ require("dotenv").config();
 //variable declaration for port
 const PORT = process.env.PORT || 8070;
 
-
+nikitha
 //making use of app variable
 app.use(cors());
 app.use(bodyParser.json());//making use of key value pairs in json
